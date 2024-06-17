@@ -1,5 +1,5 @@
 print("Olá Mundo")
 
 
-def minhaFuncao() -> None:
+def minha_funcao() -> None:
     print("Estou na minha função")
