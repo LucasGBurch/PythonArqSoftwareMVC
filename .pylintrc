@@ -1,4 +1,6 @@
 ﻿[MAIN]
+# Fonte comando - pylint --generate-rcfile > .pylintrc
+# Se der problema no windows - pylint --generate-rcfile | out-file -encoding utf8 .pylintrc
 
 disable= # códigos disponíveis no site: 
       C0114, # Missing module docstring (missing-module-docstring)
