@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 
 storage.db
+**/__pycache__
+.pytest_cache
