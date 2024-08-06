@@ -8,7 +8,8 @@ disable= # códigos disponíveis no site:
       C0116, # Missing function or method docstring (missing-function-docstring)      
       W0703, # Catching too general exception Exception
       C0209, # Consider-using-f-string
-      E0015 # Unreconigzed-option
+      E0015, # Unreconigzed-option
+      C0321, # multiple-statements
 
 # Analyse import fallback blocks. This can be used to support both Python 2 and
 # 3 compatible code, which means that the block might have code that exists
